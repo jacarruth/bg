@@ -1,0 +1,2 @@
+# bg
+AI backgammon player
